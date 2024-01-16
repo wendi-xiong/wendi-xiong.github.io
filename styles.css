@@ -3,7 +3,6 @@ body {
     line-height: 1.4;
     color: #2f1515;
     background: hwb(0 99% 0%);
-    padding: 5% auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-weight: 300;
@@ -35,6 +34,9 @@ a:hover {
 
 /* Responsive styles for screens smaller than 600px */
 @media only screen and (max-width: 600px) {
+    body {
+    }
+
     h1 {
         font-size: xx-large;
     }
