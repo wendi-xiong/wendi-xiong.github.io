@@ -10,13 +10,13 @@ body {
 
 h1 {
     font-size: x-large;
+    margin-bottom: 0;
 }
 
 ul {
     font-size: medium;
     list-style-type: none;
     padding: 0;
-    margin: 0;
 }
 
 a:link {
