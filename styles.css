@@ -1,3 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    color: #2f1515;
+    background: hwb(0 99% 0%);
+    padding: 5% auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    font-size: x-large;
+}
+
 ul {
+    font-size: medium;
     list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a:link {
+    color: rgb(18, 24, 77);
+}
+
+a:visited {
+    color: rgb(18, 38, 104);
 }
