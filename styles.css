@@ -8,10 +8,11 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    margin: 0;
+    margin-left: 1;
 }
 
 h1 {
+    color: rgb(40, 0, 0);
     font-size: x-large;
     margin-bottom: 0;
 }
