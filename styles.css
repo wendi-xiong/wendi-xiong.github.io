@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     height: 100vh;
     margin-left: 1;
+    overflow: hidden;
 }
 
 h1 {
