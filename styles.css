@@ -42,10 +42,10 @@ a:hover {
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
-        height: 100vh;
+        height: 98vh;
+        width: 98vw;
         margin: 0;
-        padding-right: 1vw;
-        padding-bottom: 1vh;
+        padding: 1%;
     }
 
     .container {
